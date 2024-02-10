@@ -4,13 +4,15 @@ Challenge your friends to a classic game of Rock Paper Scissor on a **peer-to-pe
 
 This project was created to explore the capabilities of **[Apple's Multipeer Connectivity framework](https://developer.apple.com/documentation/multipeerconnectivity)** for establishing peer-to-peer connections within the Apple ecosystem.
 
-**Key Features:**
+https://github.com/rational-kunal/P2P-Rock-Paper-Scissor/assets/28783605/99fe72f9-43bc-43a2-835b-68f9ef3d6d2f
+
+### Key Features:
 
 - **Simple and intuitive interface:** Host or join games with ease, and make your move with a single tap.
 - **Real-time Results:** See your opponent's move and the outcome instantly.
 - **Peer-to-peer Connection:** Play directly with friends without relying on an external server.
 
-**Technical Details**
+### Technical Details
 
 - **Modular Codebase:**
     - Models: Structs and enums encapsulating game state and UI data.
